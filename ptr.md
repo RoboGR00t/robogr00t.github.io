@@ -6,11 +6,11 @@
 ## 📖 Subjects
 ---
 
-1) Engagement 
-2) Information Gathering 
-3) Footprinting and Scanning
-4) Vulnerability Assessment
-5) Exploitation
+1. Engagement 
+2. Information Gathering 
+3. Footprinting and Scanning
+4. Vulnerability Assessment
+5. Exploitation
 
 ---
 <div style="page-break-after: always; visibility: hidden;">\pagebreak</div>
