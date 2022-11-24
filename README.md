@@ -2,4 +2,4 @@
 
 
 ##### Penetration Testing Reports
-- [My Template](src/ptr.md)
+- [My Template](ptr.md)
