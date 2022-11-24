@@ -1,3 +1,3 @@
 # My Cool Hacking Journey 💻
 
-[[data/hello]]
+![[data/hello]]
