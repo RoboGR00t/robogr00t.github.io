@@ -22,6 +22,11 @@ em{
   color:red;
 }
 
-code{
-  background:grey;
+.markdown-body .highlight pre, .markdown-body pre{
+  background:lightgrey;
+  border-radius:10px;
+}
+
+.markdown-body .highlight{
+  border-radius:10px;
 }
