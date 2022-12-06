@@ -39,7 +39,7 @@ int main(int argc, char* argv[], char* envp[]){
 }
 ```
 
-As we can see the program takes an arguments as a string and converts it to an integer. Then subtracts 0x1234 in HEX and puts the value inside the `read()` function in the place of the file descriptor then it compares the string that we will provide with the string "LETMEWIN" and if there are equal the program will print our flag.
+As we can see the program takes an arguments as a string and converts it to an integer. Then subtracts 0x1234 in HEX and puts the value inside the `read()` function in the place of the file descriptor, then it compares the string that we will provide with the string "LETMEWIN" and if there are equal the program will print our flag.
 
 ## 💥 Exploitation
 So the goal is to set the fd variable to 0 (zero) and enter the passphrase ***LETMEWIN*** . Let's convert the hex number 0x1234 to decimal (4660).
