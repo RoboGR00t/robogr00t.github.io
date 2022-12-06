@@ -8,7 +8,7 @@ h1,a{
 }
   
 h4{
-  background:#a4dcb6;  
+  color:#a4dcb6;  
 }
 </style>
 
