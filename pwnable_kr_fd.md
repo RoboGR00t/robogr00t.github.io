@@ -1,7 +1,6 @@
 <link rel="stylesheet" href="style.css">
 >**pwnable.kr: fd** |  RoboGR00t | Dec 2022
 
-<div style="page-break-after: always; visibility: hidden;">\pagebreak</div>
 
 ## 🔎 Information Gathering
 
