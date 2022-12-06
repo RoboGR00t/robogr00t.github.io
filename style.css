@@ -1,3 +1,19 @@
-html{
-  background:black;
+body,.markdown-body{
+  background:#4f4f4f;
+}
+  
+h1,a{
+  color:black;
+}
+  
+h4{
+  color:#a4dcb6;  
+}
+ 
+img.thm_icon.thm_mr{
+  background:#343c42;
+}
+  
+em{
+  color:red;
 }
