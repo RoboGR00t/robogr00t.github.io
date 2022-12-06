@@ -2,6 +2,10 @@
 body,.markdown-body{
   background:#a4dcb6;
 }
+  
+h1,a{
+  color:black;
+}
 </style>
 
 
