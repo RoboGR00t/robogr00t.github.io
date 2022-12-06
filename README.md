@@ -10,10 +10,19 @@ h1,a{
 h4{
   color:#a4dcb6;  
 }
+ 
+img.thm_icon.thm_mr{
+  background:#343c42;
+}
+  
+i{
+  color:red;
+}
+  
 </style>
 
 
-# 💀 Welcome to the Dark Side 💀
+# 💀 HACKING IS *NOT* A CRIME IT'S AN ART 💀
 
 <script src="https://tryhackme.com/badge/1525203"></script> 
 #### Penetration Testing Reports
