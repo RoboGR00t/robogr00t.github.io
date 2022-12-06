@@ -1,5 +1,5 @@
 <style>
-html{
+.markdown-body{
   background:#a4dcb6;
 }
 </style>
