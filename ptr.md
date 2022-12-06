@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 # Penetration Test Report
 >**Boxes name** |  Tester's Name | Date
 
