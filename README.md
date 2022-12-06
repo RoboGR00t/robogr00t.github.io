@@ -1,6 +1,7 @@
 <style>
 body,.markdown-body{
-  background:#a4dcb6;
+  /*background:#a4dcb6;*/
+  background:#343c42;
 }
   
 h1,a{
