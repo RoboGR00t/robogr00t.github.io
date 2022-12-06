@@ -1,11 +1,14 @@
 <style>
 body,.markdown-body{
-  /*background:#a4dcb6;*/
-  background:#343c42;
+  background:#4f4f4f;
 }
   
 h1,a{
   color:black;
+}
+  
+h4{
+  background:#a4dcb6;  
 }
 </style>
 
@@ -13,6 +16,5 @@ h1,a{
 # 💀 Welcome to the Dark Side 💀
 
 <script src="https://tryhackme.com/badge/1525203"></script> 
-<!-- ![RoboGR00t](https://www.hackthebox.eu/badge/image/195814) -->
-##### Penetration Testing Reports
+#### Penetration Testing Reports
 - [My Template](ptr.md)
