@@ -1,6 +1,6 @@
 <style>
 *{
-  background:black;
+  background:#a4dcb6;
 }
 </style>
 
