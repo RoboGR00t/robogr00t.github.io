@@ -15,7 +15,7 @@ img.thm_icon.thm_mr{
   background:#343c42;
 }
   
-i{
+em{
   color:red;
 }
   
