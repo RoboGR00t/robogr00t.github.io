@@ -1,3 +1,10 @@
+<style>
+*{
+  background:black;
+}
+</style>
+
+
 # 💀 Welcome to the Dark Side 💀
 
 <script src="https://tryhackme.com/badge/1525203"></script> 
